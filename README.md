@@ -17,3 +17,4 @@ klasik ve Basit Pac-Man oyunu.
 - `pacman.js` — Pacman sınıfı (hareket, animasyon, yeme)
 - `ghost.js` — Hayalet sınıfı (BFS ile yol bulma)
 - `assets/` — görseller ve font
+<img width="426" height="490" alt="image" src="https://github.com/user-attachments/assets/b90bdc36-173c-451a-b502-42bfcc1a54ff" />
