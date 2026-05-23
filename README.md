@@ -1,6 +1,6 @@
 # Pac-Man
 
-HTML5 Canvas ve saf JavaScript ile yazılmış klasik Pac-Man oyunu.
+klasik ve Basit Pac-Man oyunu.
 
 ## Çalıştırma
 
